@@ -1,7 +1,7 @@
 # interstellar-time-dilation
 A time dilation calculator of Miller's planet from Interstellar.
 ## Arduino with Nokia 5110 LCD
-![Protoboard](/nokia 5110.jpg)
+![Protoboard](/nokia5110.jpg)
 From left to right: 
 - RST: pin 8
 - CE: pin 9
