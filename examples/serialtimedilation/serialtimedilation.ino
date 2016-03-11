@@ -1,3 +1,5 @@
+/* Interstellar Time Dilation Calculator by ericbsantana */
+
 unsigned long millisTime;
 long seconds;
 long timeFactor = 61320;
